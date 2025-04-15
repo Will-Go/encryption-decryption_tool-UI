@@ -82,11 +82,11 @@ python file_crypt.py
 
 ![Choose the file to encrypt](/screenshots/encrypt/SS_Contain.png)
 
-![Choose the file to encrypt](/screenshots/encrypt/SS_Selected.png)
+![Choose the file to encrypt](/screenshots/encrypt/SS_selected.png)
 
 ![Generate a key](/screenshots/encrypt/SS_generateKey.png)
 
-![Save the encrypted file](/screenshots/encrypt/SS_saveFILE.png)
+![Save the encrypted file](/screenshots/encrypt/SS_saveFile.png)
 
 ![Encryption success](/screenshots/encrypt/SS_Success_Encrypted.png)
 
