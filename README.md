@@ -74,35 +74,43 @@ python file_crypt.py
 
 #### Encrypt UI
 
-![Application Screenshot](/screenshots/encrypt/SS_encrypt.png)
+![Encrypt UI](/screenshots/encrypt/SS_encrypt.png)
 
-![Import a File](/screenshots/encrypt/SS_select.png)
+![Select a file to encrypt](/screenshots/encrypt/SS_select.png)
 
-![Choose the file to encript](/screenshots/encrypt/SS_FILE.png)
+![Choose the file to encrypt](/screenshots/encrypt/SS_FILE.png)
 
-![Choose the file to encript](/screenshots/encrypt/SS_Contain.png)
+![Choose the file to encrypt](/screenshots/encrypt/SS_Contain.png)
 
-![Choose the file to encript](/screenshots/encrypt/SS_Selected.png)
+![Choose the file to encrypt](/screenshots/encrypt/SS_Selected.png)
 
-![Choose the file to encript](/screenshots/encrypt/SS_generateKey.png)
+![Generate a key](/screenshots/encrypt/SS_generateKey.png)
 
-![Choose the file to encript](/screenshots/encrypt/SS_saveFILE.png)
+![Save the encrypted file](/screenshots/encrypt/SS_saveFILE.png)
 
-![Choose the file to encript](/screenshots/encrypt/SS_Success_Encrypted.png)
+![Encryption success](/screenshots/encrypt/SS_Success_Encrypted.png)
+
+- Options: You can choose to remove or keep the original file after encryption.
+
+![Options](/screenshots/encrypt/SS_options.png)
 
 #### Decrypt UI
 
-![Application Screenshot](/screenshots/decrypt/SS_decrypt.png)
+![Decrypt UI](/screenshots/decrypt/SS_decrypt.png)
 
-![Application Screenshot](/screenshots/decrypt/SS_choose_file.png)
+![Select a file to decrypt](/screenshots/decrypt/SS_choose_file.png)
 
-![Application Screenshot](/screenshots/decrypt/SS_selectFile.png)
+![Choose the file to decrypt](/screenshots/decrypt/SS_selectFile.png)
 
-![Application Screenshot](/screenshots/decrypt/SS_decryptFile.png)
+![Decrypt the file](/screenshots/decrypt/SS_decryptFile.png)
 
-![Application Screenshot](/screenshots/decrypt/SS_saveDecrypt.png)
+![Save the decrypted file](/screenshots/decrypt/SS_saveDecrypt.png)
 
-![Application Screenshot](/screenshots/decrypt/SS_Succesfull.png)
+![Decryption success](/screenshots/decrypt/SS_Succesfull.png)
+
+- Options: You can choose to remove or keep the encrypted file after decryption.
+
+![Options](/screenshots/decrypt/SS_options.png)
 
 ## Future Enhancements
 
